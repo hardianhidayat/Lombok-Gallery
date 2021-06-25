@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156363833569",
+    "project_id": "lombokgallery-a1ea8",
+    "storage_bucket": "lombokgallery-a1ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156363833569:android:6a33db711c71abca9c77a0",
+        "android_client_info": {
+          "package_name": "com.projectdidit.tubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156363833569-8lqhsgfo4q4iovmc10qs2ge63u8928st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwejR0JddrUJVqgUOzdufYohiWt1CIIaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156363833569-8lqhsgfo4q4iovmc10qs2ge63u8928st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
